@@ -1,0 +1,12 @@
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\bin\Debug\netstandard2.0\Todo.deps.json
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\bin\Debug\netstandard2.0\Todo.dll
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\bin\Debug\netstandard2.0\Todo.pdb
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\Todo.csprojAssemblyReference.cache
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfoInputs.cache
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\Todo.AssemblyInfo.cs
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\Todo.dll
+E:\Soluciones\Test\Xamarin\xamarin-forms-samples\Todo\Todo\obj\Debug\netstandard2.0\Todo.pdb
